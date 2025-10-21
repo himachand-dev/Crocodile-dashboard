@@ -40,7 +40,7 @@ You need to have **Python 3.8+** installed on your system.
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/himachand-dev/Crocodile-dashboard]
-    A9.py # Replace with your actual project directory name
+    cd Crocodile-dashboard # Replace with your actual project directory name
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
@@ -79,6 +79,18 @@ The dashboard uses a dataset containing various field observations. The data inc
 * `Date of Observation`
 * `Country/Region`
 * `Habitat Type`
+
+```
+crocodile-conservation-insights/ # Main project directory
+├── app.py                       # The single Python file containing all Streamlit code, UI logic, and data visualization setup.
+├── assets/                      # A single folder for all supporting files (data and media)
+│   ├── crocodile_data.csv       # The dataset containing the 1000+ crocodile observations (the source data).
+│   ├── new_guinea.jpg           # Image for the Top 5 Crocodiles section
+│   ├── american.jpg             # Image for the Top 5 Crocodiles section
+│   ├── orinoco.jpg              # Image for the Top 5 Crocodiles section
+│   └── (other_images.jpg)       # All other crocodile images used for the dashboard background and Top 5 section
+└── README.md                    # Project overview and setup instructions (the file we created).
+```
 
 ## 👨‍💻 Author
 
