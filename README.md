@@ -82,7 +82,7 @@ The dashboard uses a dataset containing various field observations. The data inc
 
 ## 👨‍💻 Author
 
-**[Your Name / Digital Monk]**
+**[V. Himachand]**
 * **Roll No:** 321020
 * **Class:** V Pharm. D
 * **Date:** 19-09-2025
