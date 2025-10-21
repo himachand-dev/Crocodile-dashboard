@@ -39,8 +39,8 @@ You need to have **Python 3.8+** installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL_HERE]
-    cd crocodile-conservation-dashboard # Replace with your actual project directory name
+    git clone [https://github.com/himachand-dev/Crocodile-dashboard]
+    A9.py # Replace with your actual project directory name
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
